@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Room Database</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_user">Add User</string>
+    <string name="view_user">View User</string>
+    <string name="delete_user">Delete User</string>
+    <string name="update_user">Update User</string>
+    <string name="name">Name</string>
+    <string name="user_id">User ID</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+</resources>
